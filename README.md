@@ -1,9 +1,8 @@
 # Patch
 
-[![Checks](https://github.com/uniphil/patch-rs/actions/workflows/checks.yml/badge.svg)](https://github.com/uniphil/patch-rs/actions/workflows/checks.yml)
-[![Crates.io Badge](https://img.shields.io/crates/v/patch.svg)](https://crates.io/crates/patch)
-[![docs.rs](https://docs.rs/patch/badge.svg)](https://docs.rs/patch)
-[![Lines of Code](https://tokei.rs/b1/github/uniphil/patch-rs)](https://github.com/uniphil/patch-rs)
+[![Checks](https://github.com/DennisJensen95/git-patch-parser/actions/workflows/ci.yml/badge.svg)](https://github.com/DennisJensen95/git-patch-parser/actions/workflows/ci.yml)
+![Code coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/DennisJensen95/2b7862c80c14d562c8659e1283543190/raw/git-patch-parser.json)
+
 
 Rust crate for parsing and producing patch files in the [Unified Format].
 

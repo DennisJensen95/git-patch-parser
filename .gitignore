@@ -1,2 +1,6 @@
 target
 Cargo.lock
+
+# Code coverage
+tarpaulin-report.html
+cobertura.xml
